@@ -1,0 +1,17 @@
+.navbar{
+    background:beige !important;
+}
+li, a{
+    display:inline-block;
+    text-decoration: none;
+    color:black;
+    margin: 5px;
+    
+}
+a:hover{
+    background:#006400;
+}
+ul{
+    margin: auto;
+    width:30%;
+}
